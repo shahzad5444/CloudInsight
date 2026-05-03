@@ -1,0 +1,7 @@
+[
+    {
+        "severity": "HIGH",
+        "resource": "shahzad-devops-1777821745",
+        "issue": "Public Access Block is NOT fully enabled"
+    }
+]
